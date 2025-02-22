@@ -11,6 +11,7 @@ public class SwichCase {
             break;
         case 2:
             System.out.printf("Sayi 2");
+
     }
 
     }
