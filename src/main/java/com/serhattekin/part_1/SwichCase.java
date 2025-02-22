@@ -15,9 +15,9 @@ public class SwichCase {
                 System.out.println("sayi 1");
                 break;
             case 2:
-                System.out.printf("Sayi 2");
+                System.out.println("Sayi 2");
             default:
-                System.out.printf("geçersiz sayı");
+                System.out.println("geçersiz sayı");
 
         }
 scanner.close();
