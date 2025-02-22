@@ -63,13 +63,9 @@ Bu dosya:
 - Projenin kimliğini (`groupId`, `artifactId`, `version`)
 - Bağımlılıklarını (`dependencies`)
 - Yapılandırmalarını içerir.
-
 ---
-
-
 ## JDK Nedir ?
 ```sh 
-
 ```
 ### **3. JDK (Java Development Kit) Nedir?**
 **JDK (Java Development Kit)**, Java ile uygulama geliştirmek için kullanılan geliştirme ortamıdır. İçerisinde:
