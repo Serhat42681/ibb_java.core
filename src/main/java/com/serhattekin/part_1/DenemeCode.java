@@ -14,8 +14,9 @@ public class DenemeCode {
         surname=klavye.nextLine();
         System.out.printf("Adınız: " + name +  " Soyadınız; S" + surname);
 
-        //kullanmadığımız scanner nesnesini kapatalım .
+        //kullanmadığımız scanner nesnesini kapat
         klavye.close();
+        
 
     }
 }

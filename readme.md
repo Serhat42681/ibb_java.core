@@ -116,7 +116,7 @@ JVM’in Görevleri:
 ---
 
 
-## Intepreter Nedir ?
+## Interpreter Nedir ?
 ```sh 
 
 ```
